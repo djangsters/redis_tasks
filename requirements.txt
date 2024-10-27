@@ -57,7 +57,7 @@ pytz==2024.1
     # via
     #   -r requirements.in
     #   croniter
-redis==5.0.7
+redis==5.2.0
     # via -r requirements.in
 six==1.16.0
     # via python-dateutil
